@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // This is atm Machine
 import inquirer from "inquirer";
 let my_Currentbalance = 6000;
